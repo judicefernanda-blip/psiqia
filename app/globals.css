@@ -498,3 +498,6 @@ textarea:focus-visible {
 [data-testid="artifact"] {
   isolation: isolate;
 }
+.prose p, .prose li, .prose div {
+  white-space: pre-wrap;
+}
