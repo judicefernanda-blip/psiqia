@@ -13,8 +13,8 @@ export const guestRegex = /^guest-\d+$/;
 export const DUMMY_PASSWORD = generateDummyPassword();
 
 export const suggestions = [
-  "What are the advantages of using Next.js?",
-  "Write code to demonstrate Dijkstra's algorithm",
-  "Help me write an essay about Silicon Valley",
-  "What is the weather in San Francisco?",
+  "Paciente 38 anos, F, humor deprimido há 6 meses, insônia, anedonia, fadiga. Usando sertralina 100mg há 8 semanas com resposta parcial. Gere conduta completa.",
+  "Paciente 45 anos, M, ansiedade generalizada, ataques de pânico semanais, sem medicação prévia. PHQ-9: 12, GAD-7: 16. Gere conduta e receituário.",
+  "Paciente 29 anos, F, diagnóstico de TAB II, em uso de lamotrigina 200mg. Queixa de episódio depressivo atual. Gere conduta baseada nas diretrizes CANMAT 2023.",
+  "Paciente 52 anos, M, esquizofrenia em acompanhamento, uso de risperidona 4mg. Relata sintomas residuais e ganho de peso. Sugira ajuste terapêutico.",
 ];
